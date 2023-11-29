@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\classesagain\classesagain\bin\Debug\classesagain.exe.config
+C:\Users\zirko\source\repos\classesagain\classesagain\bin\Debug\classesagain.exe
+C:\Users\zirko\source\repos\classesagain\classesagain\bin\Debug\classesagain.pdb
+C:\Users\zirko\source\repos\classesagain\classesagain\obj\Debug\classesagain.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\classesagain\classesagain\obj\Debug\classesagain.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\classesagain\classesagain\obj\Debug\classesagain.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\classesagain\classesagain\obj\Debug\classesagain.exe
+C:\Users\zirko\source\repos\classesagain\classesagain\obj\Debug\classesagain.pdb
